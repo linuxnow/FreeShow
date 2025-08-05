@@ -41,7 +41,7 @@ export const isoLanguages = [
     { code: "bg", name: "Bulgarian", nativeName: "Български", flag: "🇧🇬" },
     { code: "bua", name: "Buryat", nativeName: "Буряад", flag: "🇷🇺" },
     { code: "yue", name: "Cantonese", nativeName: "粵語", flag: "🇨🇳" },
-    { code: "ca", name: "Catalan", nativeName: "Català", flag: "🇪🇸" },
+    { code: "ca", name: "Catalan", nativeName: "Català", flag: ""/assets/flags/catalonia.svg"" },
     { code: "ceb", name: "Cebuano", nativeName: "Binisaya", flag: "🇵🇭" },
     { code: "ch", name: "Chamorro", nativeName: "Chamoru", flag: "🇬🇺" },
     { code: "ce", name: "Chechen", nativeName: "Нохчийн", flag: "🇷🇺" },
